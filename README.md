@@ -88,7 +88,7 @@ A beautiful and calming sentiment-tracking app that helps users understand their
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/serene.git
+    git clone https://github.com/B4S4B33/Serene.git
     cd serene
     ```
 
